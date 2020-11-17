@@ -1,0 +1,29 @@
+.img{
+    margin-left: 23px;
+    margin-top:100px;
+}
+.mob{
+    display: inline-block;
+    border: 1px solid;
+    height: 640px;
+    width: 310px;
+    border-color: black;
+    margin-left: 500px;
+    border-radius: 10px;
+}
+.btn{
+    display: inline-block;
+    height: 40px;
+    width: 290px;
+    border: 10px solid;
+    border-color: #00ff33;
+    border-radius: 10px;
+    margin-top: 70px;
+    padding-bottom:17px;
+}
+a{
+    text-decoration: none; 
+    color: black;
+    text-align: center;
+    
+}
